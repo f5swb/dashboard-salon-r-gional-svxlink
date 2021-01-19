@@ -1,4 +1,4 @@
-# dashboard-salon-r-gional-svxlink
+# dashboard-salon-regional-svxlink
 Installation d’Apache
 sudo apt update
 sudo apt upgrade
